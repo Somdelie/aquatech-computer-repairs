@@ -1,0 +1,14 @@
+{
+  "cSpell.words": [
+    "Aquatech",
+    "turbopack"
+  ],
+  "typescript.preferences.organizeImports": {},
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "never"
+  },
+  "typescript.suggest.autoImports": false,
+  "WillLuke.nextjs.addTypesOnSave": true,
+  "WillLuke.nextjs.hasPrompted": true,
+  "cSpell.overrides": []
+}
